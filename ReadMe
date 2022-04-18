@@ -1,13 +1,11 @@
 This folder consists of two python files:
-Stereo_pair.py and stereo_utils.py
+stereo_.py and utils.py
 
-Stereo_pair is the main file with all the necessary functions in stereo_utils.
+stereo_ is the main file with all the necessary functions in utils.
 
 
-The necessary information about each stereo pair is present in the Stereo_pair as global variables. The results can be viewed in the link below:
-\\insert link\\
-
+The necessary information about each stereo pair is present in the Stereo_ as global variables. 
 To run the file:
-Unzip the folder. Run the Stereo_pair.py file and observe the results.
+Unzip the folder. Run the stereo_.py file and observe the results.
 To perform the same operations on different stereo pair, pls add the image pair in data folder->nameOfimage -> Insert left and right image
-In the Stereo_pair.py file, add the K matrix and baselinevalues and giev it corresponding flag number to work with.
+In the stereo_.py file, add the K matrix and baselinevalues and give it corresponding flag number to work with.
